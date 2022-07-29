@@ -9,7 +9,7 @@ metadata:
   tags:
     - http
 spec:
-  type: thrift
+  type: openapi
   lifecycle: production
   owner: group:guests
   system: counter-app
